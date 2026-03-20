@@ -60,7 +60,7 @@ function setup() {
 
   rectMode(CENTER);
   imageMode(CENTER);
-  yPos = height / 2;
+  yPos = (height /2);
 
   size = 200;
 
